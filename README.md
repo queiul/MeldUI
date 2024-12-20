@@ -13,11 +13,11 @@ We’ve built an app that transforms the way you manage and generate images. Per
 
 <details>
   <summary>MeldUI Showcase</summary>
-  <img src="assets/idle_1" alt="image-description"/>
-  <img src="assets/running_2" alt="image-description"/>
-  <img src="assets/running_2" alt="image-description"/>
-  <img src="assets/workflow_edit_1" alt="image-description"/>
-  <img src="assets/settings" alt="image-description"/>
+  <img src="assets/idle_1.png" alt="image-description"/>
+  <img src="assets/running_2.png" alt="image-description"/>
+  <img src="assets/running_2.png" alt="image-description"/>
+  <img src="assets/workflow_edit_1.png" alt="image-description"/>
+  <img src="assets/settings.png" alt="image-description"/>
 </details>
 
 ## 🔧 **Key Features**
