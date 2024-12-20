@@ -10,7 +10,6 @@ We’ve built an app that transforms the way you manage and generate images. Per
 
 ---
 
-
 <details>
   <summary>MeldUI Showcase</summary>
   <img src="assets/idle_1.png" alt="image-description"/>
@@ -29,6 +28,8 @@ Setting up your ComfyUI workflows has never been easier. With just a few clicks,
 - Customize them within the app.
 - Run them easily with press of a button.
 - Start generating images in no time!
+- **Add as many workflows as you want** and manage them just like your images.
+- Manage **all your models** such as checkpoints, LoRA, etc. all in one place.
 
 > **Tip:** You can add as many **ComfyUI** endpoint as you want either in remote server or local network. The app will manage them effortlessly.
 
@@ -68,6 +69,16 @@ The app comes with a separate **image server** that can be hosted anywhere—on 
 
 ---
 
+### 💡 **7. Coming Soon: Prompt Lab**
+We’re working on an exciting new feature—the **Prompt Lab**! This will allow users to:
+- Easily manage their prompts.
+- Create and refine prompts with an intuitive interface.
+- Store and organize all their creative ideas in one place.
+
+> **Stay tuned:** The Prompt Lab will redefine how you approach creative workflows.
+
+---
+
 ## 🛠️ **Still in Progress: How You Can Help!**
 
 While the app is already powerful, there’s still **so much more to come!** We’re constantly working to:
@@ -81,9 +92,16 @@ Your support can help us take it to the next level. Share your ideas, test the a
 
 ## 🎨 **Join the Journey!**
 
+If you’ve been searching for a smarter way to manage images and unlock the full potential of ComfyUI, look no further. Let’s make creativity simple, intuitive, and fun together.
+
 This app is currently available to **Patreon supporters**. By supporting us, you not only get access to the app and its features but also become a part of its growth and success.
 
-> **Join us on Patreon** to unlock the app and be part of our creative journey.
+## 📥 **Download Now**
 
-If you’ve been searching for a smarter way to manage images and unlock the full potential of ComfyUI, look no further. Let’s make creativity simple, intuitive, and fun together.
+🌐 **[Join us on Patreon](https://www.patreon.com/queiul)** to access the app and:
+- Unlock all current features.
+- Receive exclusive updates.
+- Support future development.
+
+✨ **Why wait?** Be part of an inspiring community that’s shaping the future of creative tools!
 
