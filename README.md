@@ -1,4 +1,4 @@
-# MeldUI
+# 🌈 MeldUI
 
 ![ComfyUI Workflow](assets/running_1.png)
 
