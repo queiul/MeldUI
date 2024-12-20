@@ -13,7 +13,6 @@ We’ve built an app that transforms the way you manage and generate images. Per
 <details>
   <summary>MeldUI Showcase</summary>
   <img src="assets/idle_1.png" alt="image-description"/>
-  <img src="assets/running_2.png" alt="image-description"/>
   <img src="assets/idle_2.png" alt="image-description"/>
   <img src="assets/workflow_edit_1.png" alt="image-description"/>
   <img src="assets/workflows_almost_empty.png" alt="image-description"/>
@@ -27,7 +26,7 @@ We’ve built an app that transforms the way you manage and generate images. Per
 Setting up your ComfyUI workflows has never been easier. With just a few clicks, you can:
 - Load your workflows effortlessly.
 - Customize them within the app.
-- Run them easily with press of a button.
+- Run them easily by press of a button.
 - Start generating images in no time!
 - **Add as many workflows as you want** and manage them just like your images.
 - Manage **all your models** such as checkpoints, LoRA, etc. all in one place.
@@ -37,7 +36,7 @@ Setting up your ComfyUI workflows has never been easier. With just a few clicks,
 ---
 
 ### 🔄 **2. Ridiculously Intuitive Design**
-Forget complicated menus or confusing tools. This app is built to be:
+Forget complicated menus or confusing tools. This app is:
 - **Beginner-friendly:** Get started in seconds.
 - **Pro-ready:** Advanced features are always within reach.
 - **Smartly organized:** Everything is where you expect it to be.
