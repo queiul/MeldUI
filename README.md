@@ -15,7 +15,7 @@ We’ve built an app that transforms the way you manage and generate images. Per
   <summary>MeldUI Showcase</summary>
   <img src="assets/idle_1.png" alt="image-description"/>
   <img src="assets/running_2.png" alt="image-description"/>
-  <img src="assets/running_2.png" alt="image-description"/>
+  <img src="assets/idle_2.png" alt="image-description"/>
   <img src="assets/workflow_edit_1.png" alt="image-description"/>
   <img src="assets/settings.png" alt="image-description"/>
 </details>
