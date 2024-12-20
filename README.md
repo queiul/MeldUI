@@ -18,6 +18,7 @@ We’ve built an app that transforms the way you manage and generate images. Per
   <img src="assets/workflow_edit_1.png" alt="image-description"/>
   <img src="assets/workflows_almost_empty.png" alt="image-description"/>
   <img src="assets/settings.png" alt="image-description"/>
+  <img src="assets/gallery_1.png" alt="image-description"/>
 </details>
 
 ## 🔧 **Key Features**
